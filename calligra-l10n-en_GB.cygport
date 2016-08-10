@@ -8,3 +8,5 @@ SUMMARY="Calligra Suite British English translation files"
 DESCRIPTION="Calligra Suite British English translation files"
 HOMEPAGE="http://calligra-suite.org/"
 SRC_URI="mirror://kde/stable/calligra-${VERSION}/calligra-l10n/${NAME}-${VERSION}.tar.xz"
+
+ARCH=noarch
